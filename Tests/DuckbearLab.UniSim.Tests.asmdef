@@ -1,0 +1,17 @@
+{
+    "name": "DuckbearLab.UniSim.Tests",
+    "references": [
+        "GUID:c942d3d9ecc07c3448022ca49638c58e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

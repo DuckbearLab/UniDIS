@@ -1,0 +1,13 @@
+{
+  "name": "com.duckbearlab.unisim",
+  "version": "0.0.1",
+  "displayName": "UniSim",
+  "description": "A DIS simulation package for Unity.",
+  "author": {
+    "name": "DuckbearLab",
+    "email": "duckbearlab@gmail.com",
+    "url": "https://duckbearlab.com"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
