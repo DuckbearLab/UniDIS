@@ -29,5 +29,6 @@ Here you can choose to either `Add package from git URL` or `Add package from di
 
 ### Example
 
-The UniSim package comes with an example scene. You can find it in the Project panel under Packages > UniSim > Example.
+The UniSim package comes with an example scene. You can find it in the Project panel under `Packages > UniSim > Example`.
+
 It contains a basic simulator which publishes a "cow" entity and reflects remote entities. Check the Example script for some scripting examples.
