@@ -32,3 +32,9 @@ Here you can choose to either `Add package from git URL` or `Add package from di
 The UniSim package comes with an example scene. You can find it in the Project panel under `Packages > UniSim > Example`.
 
 It contains a basic simulator which publishes a "cow" entity and reflects remote entities. Check the Example script for some scripting examples.
+
+### Useful resources
+
+* [Open-DIS](https://github.com/open-dis)
+* [DIS Data Dictionary - PDU Data](http://faculty.nps.edu/brutzman/vrtp/mil/navy/nps/disEnumerations/JdbeHtmlFiles/pdu/)
+* [KDIS](https://sourceforge.net/projects/kdis/)
