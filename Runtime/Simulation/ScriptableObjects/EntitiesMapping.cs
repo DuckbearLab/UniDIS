@@ -25,7 +25,11 @@ namespace DuckbearLab.UniSim
 
         private void OnEnable()
         {
+            if (_mappings == null)
+                _mappings = new EntityMapping[0];
+
             _mappingDict = new Dictionary<EntityType, EntityMapping>();
+
             foreach (var mapping in _mappings)
                 _mappingDict[EntityType.FromString(mapping.EntityType)] = mapping;
         }
