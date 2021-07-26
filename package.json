@@ -1,7 +1,7 @@
 {
-  "name": "com.duckbearlab.unisim",
+  "name": "com.duckbearlab.unidis",
   "version": "0.0.1",
-  "displayName": "UniSim",
+  "displayName": "UniDIS",
   "description": "A DIS simulation package for Unity.",
   "author": {
     "name": "DuckbearLab",
